@@ -10,7 +10,7 @@ Built from a perioperative theatre perspective: in a fast-moving theatre list, i
 
 ## Workflow
 
-![Workflow canvas](images/workflow-canvas.png)
+
 
 | Step | Node | What it does |
 |---|---|---|
