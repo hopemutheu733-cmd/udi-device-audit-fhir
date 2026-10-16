@@ -10,6 +10,7 @@ Built from a perioperative theatre perspective: in a fast-moving theatre list, i
 
 ## Workflow
 
+<img width="600" height="270" alt="Surgical Implant UDI Audit API (FHIR)" src="https://github.com/user-attachments/assets/3f8ee46d-39ae-4483-9e21-9f7cf420198c" />
 
 
 | Step | Node | What it does |
@@ -30,7 +31,8 @@ A separate **error workflow** (Error Trigger → Gmail) emails an alert naming t
 
 Every call is recorded in n8n's Executions tab. Successful runs show every node on the happy path completing, and failures are visible and alerted on.
 
-![Successful execution](images/execution-success.png)
+<img width="600" height="270" alt="execution log error" src="https://github.com/user-attachments/assets/974bf79a-33db-4030-aeae-81011bc3b0b8" />
+
 
 ---
 
